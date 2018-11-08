@@ -49,12 +49,12 @@ Google is harvesting dataset descriptions from RDA and DAP, so CSIRO’s data ar
 
 The three CODATA pilots [7] are exemplars of cross-disciplinary applications. As Australia’s leading cross-disciplinary research organization, CSIRO is well placed to engage. In particular, the Resilient Cities project appears to correlate well with the recently announced DD project on Cities/Energy (I’ve already contacted the leads). I’m less familiar with CSIRO’s work in health, but there is likely to be an overlap with the IDDO project.
 
-4.	Continued global leadership of international research data platforms by CSIRO –
+### 4.	Continued global leadership of international research data platforms by CSIRO –
 
 CSIRO has had a longstanding engagement with information standardization initiatives, both generic and domain specific. We were the host for the Australian W3C office for about 10 years, and CSIRO officers have held leadership positions in the Dublin Core Metadata Initiative, the Open Geospatial Consortium, and various ISO committees. I am currently on the Steering Committee for the CODATA Data Integration Initiative and also on the Vocabularies and Standards working group. This workshop saw a new liaison with an important data community – official statistics and social sciences. Our engagement in leading this reinforces our global leadership role.
 
 
-## Footnotes and links
+<!-- Footnotes and links-->
 [1]: https://ddi-alliance.atlassian.net/wiki/spaces/DDI4/pages/433553433/Interoperability+of+Metadata+Standards+in+Cross-Domain+Science+Health+and+Social+Science+Applications
 [2]: http://www.codata.org/news/289/62/Workshop-Report-Interoperability-of-Metadata-Standards-in-Cross-Domain-Science-Health-and-Social-Science-Applications
 [3]: https://ddi-alliance.atlassian.net/wiki/spaces/DDI4/pages/578650215/Acronym-buster
